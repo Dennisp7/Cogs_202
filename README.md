@@ -1,5 +1,5 @@
 # Cogs_202
-Cogs_202 Repo
+This is my repo for a graduate introductory course to various programming concepts. Most of the assignments here were to help me get familiar with basic programming in Python, GIT, and some machine learning.
 
 # Assignment 2 link: https://colab.research.google.com/drive/1WNtSzzdtNt7NG3FiJVvBt197k4KAbEwt#scrollTo=luwU9OoXjkTV 
 
